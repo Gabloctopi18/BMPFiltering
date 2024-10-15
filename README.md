@@ -10,3 +10,7 @@ Available filters:
     -e [threshold]:  edge detection
 
 This project was inspired by Harvard CS50. I used the templates provided by them in the challenge "filter" in problem set 4. Additional features were added by me.
+
+Running ./makefile will compile the prgram with gcc, but you are welcome to compile it yourself if you want. 
+
+This is my first repository. Thanks for taking a look!
